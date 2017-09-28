@@ -1,0 +1,22 @@
+{
+  "name": "repusp",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Ruhaker <rukasu@linux.ime.usp.br>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "angularjs#^1.6.6",
+    "materialize": "^0.100.2"
+  }
+}
